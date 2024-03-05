@@ -1,4 +1,4 @@
-# Hey 👋, My name is Jayana!
+# Jayana Nanayakkara
 #### I am a student passionate about economics and computer science.
 ![I am a student studying economics and computer science.](https://i.ibb.co/ZdTbHRB/Wealth-Wise-Banner-3.png)
 
