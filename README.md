@@ -1,8 +1,8 @@
-### Hey 👋, My name is Jayana!
-#### I am a student studying economics and computer science.
+# Hey 👋, My name is Jayana!
+#### I am a student passionate about economics and computer science.
 ![I am a student studying economics and computer science.](https://i.ibb.co/ZdTbHRB/Wealth-Wise-Banner-3.png)
 
-I'm a high school Junior from California building my skillset in everything that I find interesting or useful. I love applying my economics and programming skills to projects that can have a positive impact on financial literacy.
+I'm a high school Junior from California building my skillset in everything that I find interesting or useful. I love applying my passion for economics and computer science to projects that can have a positive impact on financial literacy.
 
 - 🔭 I’m currently working on a native Android and IOS version of Wealth Wise. 
 - 🌱 I’m currently learning Tailwind CSS and React Native 
