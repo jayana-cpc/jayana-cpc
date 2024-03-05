@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Jayana!
 #### I am a student studying economics and computer science.
-![I am a student studying economics and computer science.](https://i.ibb.co/vwp1vY1/Wealth-Wise-Banner-2.png)
+![I am a student studying economics and computer science.][(https://i.ibb.co/vwp1vY1/Wealth-Wise-Banner-2.png)](https://i.ibb.co/7SSJ5RH/Wealth-Wise-Banner-2.png)
 
 I'm a high school Junior from California building my skillset in everything that I find interesting or useful. I love applying my economics and programming skills to projects that can have a positive impact on financial literacy.
 
